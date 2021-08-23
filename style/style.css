@@ -2,6 +2,10 @@ html {
   box-sizing: border-box;
 }
 
+.lydia-dp{
+height:470px;
+width:470px;}
+
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
