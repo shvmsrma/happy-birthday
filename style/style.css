@@ -3,7 +3,7 @@ html {
 }
 
 .lydia-dp{
-height:400px;
+height:460px;
 width:400px;}
 
 body {
@@ -123,7 +123,6 @@ body {
 .six img {
   display: inline-block;
   max-width: 100%;
-  height: auto;
 }
 
 .six .hat {
